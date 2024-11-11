@@ -8,6 +8,8 @@ email: thomas.vercier@etu.emse.fr
 description: "Site de Thomas Vercier."
 logo: "/assets/images/moi.jpg"
 include: ["_pages"]
+baseurl: "thomas-ver.github.io" 
+
 
 defaults:
   # _pages
