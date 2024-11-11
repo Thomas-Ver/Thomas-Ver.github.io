@@ -30,7 +30,7 @@ author:
   avatar: "/assets/images/moi.jpg"
   location: "Saint-Etienne / Martigues"
   links:
-    - label: "thomasvercier.fr"
+    - label: "site"
       icon: "fas fa-fw fa-link"
       url: "thomas-ver.github.io"
     - label: "GitHub"
