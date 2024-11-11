@@ -9,10 +9,12 @@ logo: "/assets/images/moi.jpg"
 include: ["_pages"]
 baseurl: "thomas-ver.github.io" 
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+search: true
 
 plugins:
+  - jekyll-feed
   - jekyll-include-cache
 
 defaults:
