@@ -1,0 +1,35 @@
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+site.locale: "fr"
+title: Thomas Vercier
+name: Thomas Vercier
+email: thomas.vercier@etu.emse.fr
+description: "Site de Thomas Vercier."
+logo: "/assets/images/moi.jpg"
+include: ["_pages"]
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
+author:
+  name: "Thomas Vercier"
+  avatar: "/assets/images/moi.jpg"
+  location: "Saint-Etienne / Martigues"
+  links:
+    - label: "thomasvercier.fr"
+      icon: "fas fa-fw fa-link"
+      url: "https://thomasvercier.fr"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Thomas-Ver"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/thomas-vercier-b96030211/"
