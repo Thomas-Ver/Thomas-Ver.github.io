@@ -1,0 +1,7 @@
+
+main:
+  - title: "Accueil"
+    url: "/"
+
+  - title: "CV"
+    url: "/CV/"
