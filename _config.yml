@@ -9,7 +9,8 @@ description: "Site de Thomas Vercier."
 logo: "/assets/images/moi.jpg"
 include: ["_pages"]
 baseurl: "thomas-ver.github.io" 
-
+plugins:
+  - jekyll-include-cache
 
 defaults:
   # _pages
