@@ -3,7 +3,7 @@
 site.locale: "fr"
 title: Thomas Vercier
 name: Thomas Vercier
-email: thomas.vercier@etu.emse.fr
+email: thomasvercier@gmail.com
 description: "Site de Thomas Vercier."
 logo: "/assets/images/moi.jpg"
 include: ["_pages"]
@@ -28,11 +28,8 @@ defaults:
 author:
   name: "Thomas Vercier"
   avatar: "/assets/images/moi.jpg"
-  location: "Saint-Etienne / Martigues"
+  location: "Martigues"
   links:
-    - label: "site"
-      icon: "fas fa-fw fa-link"
-      url: "thomas-ver.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Thomas-Ver"
